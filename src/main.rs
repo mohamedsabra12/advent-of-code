@@ -1,5 +1,5 @@
-use adventOfCode::day5;
+use adventOfCode::day6;
 
 fn main() {
-    day5::solve();
+    day6::part_one();
 }
